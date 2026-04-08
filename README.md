@@ -12,13 +12,11 @@ et interagir avec chacun d'eux (message personnalisé et curseur de niveau).
 
 - Navigation entre deux panneaux via des boutons
 - Panneau A : Bouton "Me saluer" qui affiche un message de bienvenue
-- <img width="345" height="769" alt="image" src="https://github.com/user-attachments/assets/6c7259b4-fedc-4119-a6ef-2adaa6cc0a40" />
-
 - Panneau B : Curseur (SeekBar) de 0 à 100 avec affichage en temps réel
-- 
 - Gestion de l'état : conservation du niveau après rotation de l'écran
 - Navigation retour avec la pile de fragments (bouton "Retour" système)
-
+<img width="345" height="769" alt="image" src="https://github.com/user-attachments/assets/6c7259b4-fedc-4119-a6ef-2adaa6cc0a40" />
+<img width="341" height="767" alt="image" src="https://github.com/user-attachments/assets/9d509fe4-993a-4c4f-9eef-5d43ebce1ec4" />
 ---
 
 ## Fichiers principaux
